@@ -9,6 +9,10 @@
 <body>
     <h1>hello world!</h1>
     <p>lorem</p>
+    <ul>
+        <li>haha</li>
+        <li>hihi</li>
+    </ul>
     
 </body>
 </html>
